@@ -1,0 +1,10 @@
+project_id = "xwldrpncsidlnbgayigm"
+
+[functions.generate-notes]
+verify_jwt = false
+
+[functions.generate-questions]
+verify_jwt = false
+
+[functions.generate-flashcards]
+verify_jwt = false
